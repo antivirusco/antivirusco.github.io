@@ -1089,7 +1089,7 @@ p {
 }
 
 .bg-overlay-dark:before {
-	background-color: rgba(44, 62, 80, 0.6);
+	background-color: rgba(44, 62, 80, 0.7);
 }
 
 .bg-overlay-theme:before {
