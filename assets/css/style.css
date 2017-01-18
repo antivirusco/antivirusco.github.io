@@ -4294,7 +4294,8 @@ li a:hover,
 
 /* Hero #7 */
 .hero-7 .container {
-	padding-top: 140px;
+	padding-top: 120px;
+	padding-bottom: 60px;
 }
 
 .hero-7 p {
